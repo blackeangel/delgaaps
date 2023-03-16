@@ -1,0 +1,11 @@
+.*Chrome.*
+tts
+Drive
+Duo
+Gmail.*
+Maps
+Music.*
+.*(y|Y)ou(t|T)ube.*
+.*(g|G)oogle.*
+(gms|GMS|Gms)
+.*/(Mi|Miui)[A-Z].*
