@@ -13,5 +13,5 @@ Where:
 ## Example:
 This is a simple example on a Linux system:
 ```
-~$ ./delgaaps "/data/local/UnpackerSystem" "system" "/storage/emulated/0/gappslist.txt"
+~$ ./delgaaps "/local/UnpackerSystem" "system" "./gappslist.txt"
 ```
