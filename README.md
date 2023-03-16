@@ -1,6 +1,6 @@
 # delgaaps
 
-Deleting Google and Mi services has become even easier and more convenient. It is enough to specify the folder in which the firmware image is unpacked, the name of the image without the rps extension, and the file with regular expressions.
+Deleting Google and Mi services has become even easier and more convenient. It is enough to specify the folder in which the firmware image is unpacked, the name of the image without extension and the file with regular expressions.
 
 ## Usage:
 ```
