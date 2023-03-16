@@ -10,7 +10,7 @@ LOCAL_MODULE := bin_delgaaps
 
 LOCAL_C_INCLUDES :=
 
-LOCAL_CXXFLAGS := -std=c++2a
+LOCAL_CXXFLAGS := -fexceptions -std=c++2a
 
 LOCAL_LDFLAGS := -fPIE -static -ldl
 
