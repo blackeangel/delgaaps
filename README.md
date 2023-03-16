@@ -4,7 +4,7 @@ Deleting Google and Mi services has become even easier and more convenient. It i
 
 ## Usage:
 ```
-     delgaaps <folder> <name_image> <file_list>
+delgaaps <folder> <name_image> <file_list>
 ```
 Where:
 `<folder>` - path to the folder where the image was unpacked
